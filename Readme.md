@@ -2,4 +2,4 @@
 
 this file is for checking if i remember the tutorial for the git and github
 
-this is for constantly understanding the push and pull request 
+this is for constantly understanding the push and pull request d d d d 
